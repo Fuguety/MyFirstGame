@@ -6,6 +6,12 @@ Appologies for the terrible name XD
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/Fuguety/MyFirstGame" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/102688981/212482932-c78507e0-b793-4a59-911c-f17e632daf6d.png" alt="my banner"></a>
+</p>
+
+<br>
+
 **How to Play:**
 
 After dowloading the game and Makefile, type make on your terminal and execute it by typing:
