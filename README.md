@@ -14,7 +14,7 @@ Appologies for the terrible name XD
 
 **How to Play:**
 
-After dowloading the game and Makefile, type make on your terminal and execute it by typing:
+After dowloading the game and Makefile, type `make` on your terminal and execute it by typing:
 
 Linux: ./game
 
